@@ -16,8 +16,7 @@ A collection of examples showing how users can work with Hydrosat data via STAC 
 This repository contains interactive Jupyter notebooks that demonstrate the following:
 1. All-in-one guide to getting started with Hydrosat data (```vz-quickstart.ipynb```)
 2. Using different search filters to find data (```searching-the-catalog.ipynb```)
-3. Preparing data for analysis (```vz-processing.ipynb```)
-4. Using the cloud and QA masks (```using-the-cloud-mask.ipynb```)
+3. Using the cloud and QA masks (```using-the-cloud-mask.ipynb```)
 
 ---
 
